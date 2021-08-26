@@ -1,0 +1,23 @@
+{
+  "name": "entrega-katas-javascript-7-sprint-6-gustavolira8813",
+  "version": "1.0.0",
+  "description": "Nesta entrega, você irá exercitar a criação e o uso das funções callback, e irá se familiarizar com o modo no qual os métodos incorporados do JavaScript funcionam nos bastidores.",
+  "main": "katas7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenzie-Academy-Brasil-Developers/entrega-katas-javascript-7-sprint-6-gustavolira8813.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenzie-Academy-Brasil-Developers/entrega-katas-javascript-7-sprint-6-gustavolira8813/issues"
+  },
+  "homepage": "https://github.com/Kenzie-Academy-Brasil-Developers/entrega-katas-javascript-7-sprint-6-gustavolira8813#readme",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.3.1"
+  }
+}
